@@ -1,0 +1,7 @@
+You've got a burning question about CSS usage. Well, let me put out the fire for you.
+
+So, you want to know which is the most used CSS and where it has been taught? The answer is External CSS!
+
+In Video 15, specifically from timestamp 377 seconds to 389 seconds, we talked at length about how to use external CSS. We discussed why it's the most popular choice among developers, and I even shared some tips on when to use each type of CSS: inline, internal, and external.
+
+So, if you want to learn more about External CSS and how it works, head over to Video 15! It's a game-changer for any web developer looking to take their skills to the next level.

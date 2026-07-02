@@ -1,0 +1,16 @@
+
+I am teaching sigma web development in my web sigma web development course.Here are video subtitle chunks containing video title, video number, 
+start time in seconds, end time in seconds, the text at that time
+
+[{"title":"Inline, Internal & External CSS","number":"15","start":23.0,"end":44.0,"text":" And after that, the most used is external CSS.  Make a .css file and put all your styles in that .css file.  In this video, I will tell you very closely what is the difference between the three, when to use and when to avoid.  I am very excited.  Do like this video and don't forget to write Sigma patch op in the comment section below."},{"title":"Inline, Internal & External CSS","number":"15","start":377.0,"end":389.0,"text":" But you should know what inline CSS is.  Why is it?  How can you use it?  You will do internal or the most used one.  External CSS."},{"title":"Inline, Internal & External CSS","number":"15","start":473.0,"end":481.0,"text":" internal CSS,  and external CSS.  Now I tell you  which one you should use.  See,"},{"title":"Introduction to CSS","number":"14","start":142.12,"end":154.12,"text":" I told you something here.  If HTML is the body of a car,  that is, the body of the car,  then CSS is the car's paint, decoration, designs,  seeds, interior, all these things."},{"title":"Installing VS Code & How Websites Work","number":"1","start":1091.7,"end":1096.7,"text":" CSS.  JavaScript.  In most of the cases.  If you only use HTML.  Then a very basic."}] 
+
+---------------------------------------------
+
+Which is the most used css and where it has been taught?
+User asked this question related to the video chunks, you have to answer in a human way(don't mention the above format, its just for you) where and how much content is taught where 
+and in which video (in which video and at what timestamp) and guide the user to go to that particular video.
+If user aks unrelated question, tell him that you can only answer questions related to the course
+
+
+
+
